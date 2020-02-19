@@ -15,7 +15,6 @@ TYPO3 CMS is an Open Source Enterprise Content Element System based on PHP.
 - :ref:`tutorials`
 - :ref:`references`
 - :ref:`extensions`
-- :ref:`extensions`
 - :ref:`whats_new`
 
 __________________________________________________
@@ -147,6 +146,7 @@ Configure TYPO3
 A major feature for TYPO3 is its configurability. The :ref:`t3coreapi:config-overview`
 in "TYPO3 Explained" gives you an overview of various configuration languages.
 
+
 Specifically, you might want to
 
 * Set up the :ref:`site configuration <sitehandling-basics>` in the backend to configure
@@ -156,7 +156,6 @@ Specifically, you might want to
 * :ref:`Configure the form system extension <form:quickstartIntegrators>` to create
   custom forms for the frontend.
 * :ref:`Configure backend users <t3start:user-management>`
-
 
 
 
@@ -172,7 +171,6 @@ How to create translations
 * :ref:`Working with languages as an editor <t3editors:languages>`
 * :ref:`t3coreapi:internationalization` in "TYPO3 Explained"
 
-__________________________________________________
 
 .. _start-coredev:
 

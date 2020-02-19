@@ -65,6 +65,11 @@ You can jump to a different version of the manual by clicking on
    when you are reading documentation and come across a link to
    another manual.
 
+.. _DocsAvailableVersions:
+
+Available Versions
+==================
+
 We currently have the following policy:
 
 * Official manuals are available on docs.typo3.org for
@@ -72,6 +77,9 @@ We currently have the following policy:
 * System extension manuals are available on docs.typo3.org for
   **version 8.7 and above**
 
+.. seealso::
+
+  Available TYPO3 versions: https://get.typo3.org/
 
 .. _findDocsForOlderVersions:
 
@@ -142,7 +150,7 @@ Several new chapters were added to "TYPO3 Explained".
 * :ref:`t3coreapi:DependencyInjection`
   for TYPO3 version 10
 * :ref:`t3coreapi:be-layout`
-  for TYPO3 version 10
+  for TYPO3 version 10, 9, 8
 * :ref:`t3coreapi:file_processing`
   for TYPO3 version 10
 * :ref:`t3coreapi:broadcast_channels`
